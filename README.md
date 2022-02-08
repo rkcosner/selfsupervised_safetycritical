@@ -1,1 +1,1 @@
-Main branch. Navigate to other branches for robot-specific code
+Desktop code for image processing and input generation.
